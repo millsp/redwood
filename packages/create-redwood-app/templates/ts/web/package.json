@@ -15,8 +15,8 @@
     "@redwoodjs/router": "6.0.7",
     "@redwoodjs/web": "6.0.7",
     "prop-types": "15.8.1",
-    "react": "18.3.0-canary-035a41c4e-20230704",
-    "react-dom": "18.3.0-canary-035a41c4e-20230704"
+    "react": "18.3.0-next-fecc288b7-20221025",
+    "react-dom": "18.3.0-next-fecc288b7-20221025"
   },
   "devDependencies": {
     "@redwoodjs/vite": "6.0.7"
